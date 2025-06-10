@@ -138,6 +138,12 @@ Mejor control y seguimiento de los vehículos.
 
 Incrementar la satisfacción de los clientes. 
 ## GESTIÓN DE SERVICIOS DEL METROPOLITANO : Diseño Conceptual de la base de datos
-Picture 1821224142, Imagen
+
+![ENTIDADRELACIÓN](https://github.com/user-attachments/assets/0dbbe51b-677d-4326-b9ee-6965479c46cf)
+
+## Diseño:  Definición del Modelo Lógico de la Base de Dato
+
+
+![4603cd4a-1523-4f44-9221-925e677c6215](https://github.com/user-attachments/assets/f8e07fe9-df62-40f1-8538-b12ae8683557)
 
  
