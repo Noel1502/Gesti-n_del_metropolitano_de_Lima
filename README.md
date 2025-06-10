@@ -137,5 +137,7 @@ Facilitar la toma de decisiones estratégicas basadas en los datos que se puedan
 Mejor control y seguimiento de los vehículos. 
 
 Incrementar la satisfacción de los clientes. 
+## GESTIÓN DE SERVICIOS DEL METROPOLITANO : Diseño Conceptual de la base de datos
+Picture 1821224142, Imagen
 
  
